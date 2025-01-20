@@ -8,7 +8,7 @@
 - 💻 C, Python, Java, PHP
 - 💻 HTML5, CSS, JavaScript
 - 💻 Linux, Web Services, Nuvem
-- 
+ 
 
 
 ## Contato
