@@ -4,7 +4,7 @@
 - 🎓 Sou Celso Muniz, graduando em Ciência da Computação pela Universidade Estácio de Sá.
 - 💼 Atualmente, estou focado em buscar um estágio para ganhar mais experiência.
 
-## Principais Hard Skills
+## Principais habilidades
 - 💻 C, Python, Java, PHP
 - 💻 HTML5, CSS, JavaScript
 - 💻 Linux, Web Services, Nuvem
