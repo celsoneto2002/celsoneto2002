@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 👋
 
-<!--
-**celsoneto2002/celsoneto2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Sou Celso Muniz, graduando em Ciência da Computação pela Universidade Estácio de Sá.
+- 💼 Atualmente, estou focado em buscar um estágio para ganhar mais experiência.
 
-Here are some ideas to get you started:
+## Principais Hard Skills
+- 💻 C, Python, Java, PHP
+- 💻 HTML5, CSS, JavaScript
+- 💻 Linux, Web Services, Nuvem
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contato
+- 📧 Email: [celso.neto.2002@gmail.com](mailto:celso.neto.2002@gmail.com)
+
+
